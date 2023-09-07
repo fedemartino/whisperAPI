@@ -1,0 +1,19 @@
+resumen: 
+
+
+Hola y Nancy estaban hablando de un problema con el servicio de salud TUMUM. Nancy explicó que su madre pagaba por el servicio pero a veces no recibían el correo confirmando el pago. Ella se quedó sin cobertura médica y tuvo problemas para obtener una placa. Además, la frase "se suspende el servicio" fue malinterpretada por TUMUM como una baja del servicio en lugar de suspender los servicios a coordinar. Nancy está preocupada por el alto costo del servicio y la falta de respuesta por parte de TUMUM. 
+
+Summum ofrece un servicio de calidad personalizada, pero el cliente tuvo una experiencia desagradable debido a la falta de respeto y desorganización. La situación fue agraviante ya que hubo un insulto personal y una falta de comunicación entre los involucrados. El cliente no recibió la cobertura médica porque no se había computado su pago, a pesar de haberlo hecho correctamente. Summum pidió disculpas por la situación y se comprometió a mejorar el servicio. Esta experiencia es un recordatorio de que hay que pagar tiempo y forma para evitar inconvenientes. 
+
+Una mujer se comunicó con Nancy para quejarse por un error en el servicio de salud de su madre. Ella estaba muy descontenta y desilusionada, pero Nancy le ofreció ayuda para solucionar el problema. Se comprometió a hablar internamente con el contador Solaro y transmitirle el extenso correo que la madre de la mujer le había enviado. También prometió unificar el vencimiento de las facturas de la madre y la mujer. Finalmente, le ofreció estar a disposición para cualquier otra consulta. Esta situación fue una buena oportunidad para mejorar las comunicaciones y evitar malentendidos. 
+
+1. Esta conversación está llegando a su fin.
+2. Los dos se mantienen en contacto.
+3. Se desea que el otro tenga una buena jornada.
+4. Se responde con un "Igualmente".
+5. La conversación termina con un "Adiós".
+###########################################
+sentimiento: 
+
+
+Satisfied.

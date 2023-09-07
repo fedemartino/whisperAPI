@@ -1,0 +1,9 @@
+resumen: 
+
+
+Marcelo Aldaz necesita saber el plan de salud y cuánto paga todo el grupo. La factura es de 33.600 pesos, pero uno descuenta FONASA. El valor de la cuota sin FONASA es de 16.253 masiva. Los chicos están en un premiar con copagos pagando 11.308 masiva. Marcelo Aldaz y su familia viven en San José y posiblemente tengan FONASA allá. El total a pagar es de 61.000 pesos.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

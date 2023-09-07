@@ -1,0 +1,13 @@
+resumen: 
+ I hope everyone is doing well.
+
+1. This is a greeting to wish everyone a good afternoon and morning. 
+2. The speaker expresses their hope that everyone is doing well. 
+3. This is a friendly message to show care and concern. 
+4. It is a positive way to start the day. 
+5. The speaker wishes everyone a pleasant afternoon and morning.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

@@ -1,0 +1,11 @@
+resumen: 
+
+
+Nancy habla con Silvia acerca de un problema de salud que ha estado experimentando por 20 días. El médico tratante le mandó a la guardia oftalmológica y recibió medicación para sus sofás, pero el problema persiste. Ella fue enviada a hacer dos estudios con la doctora Paola Pacheco, pero recibió una respuesta de la clínica de oftalmovisión de que uno de los estudios no estaba autorizado. Nancy se siente decepcionada por la situación y piensa en presentar una queja. Nancy le pide a Silvia que averigue por qué el estudio no fue autorizado y le promete devolverle el llamado. 
+
+Nancy fue a una coordinación para averiguar qué estaba pasando. Ella agradece a Nancy por ayudarla con su historia médica. Ella había estado yendo a emergencia, pero si hubiera ido al principio, quizás no habría llegado a estas circunstancias. Ella se vio con el doctor Benítez y la doctora Corcino, pero la doctora Corcino no la quiso ver sola. Ella entiende que los profesionales tienen situaciones personales que les impiden sobreagendar, pero siente decepción porque no pudo recibir la atención que necesitaba. Nancy indagará un poquito más para contactarla en un ratito.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

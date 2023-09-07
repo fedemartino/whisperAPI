@@ -1,0 +1,9 @@
+resumen: 
+
+
+La clínica me informó que los resultados de una prueba tardan entre 48 y 72 horas hábiles. No es posible obtenerlos antes de ese tiempo. Sin embargo, pueden hacer un esfuerzo para que estén listos el lunes en la tarde.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

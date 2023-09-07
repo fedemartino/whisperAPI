@@ -1,0 +1,10 @@
+resumen: 
+
+The world is a very large place, and it can be difficult to comprehend the sheer size of it. It's estimated that there are over 7 billion people living on Earth, spread out across 196 countries and over 50 million square miles of land. There are also vast oceans and seas, covering over 140 million square miles. The planet is home to an incredible variety of plants and animals, with millions of species living in habitats ranging from deserts to rainforests.
+
+The world is incredibly vast, with an estimated 7 billion people living across 196 countries and over 50 million square miles of land. There are also 140 million square miles of ocean and sea. The planet is home to an immense variety of plants and animals, with millions of species living in different habitats. These range from deserts to rainforests, providing a diverse array of life on Earth.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

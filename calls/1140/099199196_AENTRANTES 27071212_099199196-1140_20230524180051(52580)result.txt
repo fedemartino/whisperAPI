@@ -1,0 +1,9 @@
+resumen: 
+
+
+Nancy Torres estaba hablando con Silvia acerca del tratamiento que su esposo está recibiendo. Como no se ofrece rehabilitación cognitiva, Nancy le ofreció un descuento del 10% en la cuota mensual durante un semestre. Ella formalizará esto enviando una carta. Además, le preguntó a Silvia si su esposo podía firmar un mail electrónico para adjuntarlo a la historia clínica. Silvia confirmó que sí y Nancy le dijo que le enviara el mail para que ella lo reenvíe. Finalmente, quedaron de esta forma y se despidieron.
+###########################################
+sentimiento: 
+
+
+Satisfied.

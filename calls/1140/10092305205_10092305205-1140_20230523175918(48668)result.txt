@@ -1,0 +1,9 @@
+resumen: 
+
+
+Nancy Torres habla con Ilel Celdar para pedir un doctor. Ilel necesita una cita con el Dr. Daniel Acevedo para tratar su dolor, pero la clínica privada le ofrece una cita para el 6 de junio a cambio de 8 mil pesos. La clínica pública está demorando menos tiempo. Nancy consulta con coordinación para ver si se puede conseguir una cita en la clínica particular, pero no hay magia que hacer. El Dr. Matera fue el primero que Ilel contactó para tratar su patología traumatológica, pero el único que puede atenderlo es el Dr. Acevedo. Finalmente, Nancy consigue una cita para el 19 de junio y Ilel agradece.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

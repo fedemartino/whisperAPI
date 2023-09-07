@@ -1,0 +1,11 @@
+resumen: 
+
+
+Nancy y Silvia están hablando sobre un problema de salud que Silvia tiene. Ella ha estado visitando a médicos tratantes y guardias oftalmólogas durante los últimos 20 días sin poder ver. El doctor Arruga le indicó que fuera urgentemente a ver al doctor Silverglass, quien le ordenó dos estudios para el día siguiente. Sin embargo, recibió una respuesta de la clínica de oftalmovisión de que uno de los estudios no estaba autorizado. Nancy se ofreció a averiguar por qué fue esa respuesta. Silvia se sintió decepcionada porque llevaba 20 días sin ver y no entendía por qué no se hicieron los estudios desde el principio. Nancy prometió indagar y devolver el llamado. 
+
+Silvia busca una solución a su problema de salud. Ella ha visitado varios profesionales médicos, pero no ha recibido la atención que esperaba. Está decepcionada por el trato recibido y espera encontrar una solución con Nancy. Nancy promete investigar para encontrar una solución. Silvia agradece a Nancy por su ayuda. Nancy le ofrece su amplio staff de médicos para encontrar una solución. Silvia entiende la situación y espera encontrar una solución pronto. Nancy promete contactarla en breve con una respuesta.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

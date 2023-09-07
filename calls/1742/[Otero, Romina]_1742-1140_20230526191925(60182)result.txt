@@ -1,0 +1,9 @@
+resumen: 
+
+
+Nancy y Sabrina Wollard tienen una asociación. Sabrina tiene una consulta sobre el hermano de Nancy, por lo que quiere hablar únicamente con ella. Lucía está en la mañana, por lo que Nancy es la única persona con la que puede hablar. Nancy le ofrece a Sabrina pasarle la llamada. Finalmente, Sabrina se comunica con Nancy para hablar sobre el hermano.
+###########################################
+sentimiento: 
+
+
+Satisfied.

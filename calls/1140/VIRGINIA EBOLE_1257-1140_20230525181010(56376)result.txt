@@ -1,0 +1,9 @@
+resumen: 
+
+
+La señora Albande está consultando sobre una carta. Ella quiere agregar la firma del contratante para que la carta sea enviada por él. Esto se haría añadiendo una función recibo con la firma del contratante abajo de la carta. Se harían copias y se les hablaría para informarles de las condiciones. Finalmente, la carta está lista para ser enviada.
+###########################################
+sentimiento: 
+
+
+Satisfied.

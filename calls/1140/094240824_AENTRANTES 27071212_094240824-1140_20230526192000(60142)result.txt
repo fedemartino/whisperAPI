@@ -1,0 +1,9 @@
+resumen: 
+
+
+Sabrina y Lucía están hablando sobre una clínica abogada que se encuentra en Riquez. Estaban esperando para ver si el paciente podía tener un informe el mismo día, pero el resultado de la clínica no fue bueno. El paciente ahora se lo está haciendo en Bogaz. La hora límite para entregar el informe es a las 4:20 pm. Se espera que algún neurólogo revise el equipo. Valentina se encargará de consultar con coordinación para ver si hay posibilidades de adelantar el estudio.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

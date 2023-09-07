@@ -1,0 +1,9 @@
+resumen: 
+
+
+Nancy y el interlocutor están hablando sobre preguntas relacionadas con los sistemas abiertos. Están discutiendo si el importe de la consulta se calcula al momento de cargarla o después en el proceso de emisión. Además, mencionan que Florencia no llegó aún y que le preguntarán cuando la vean. Finalmente, se despiden. En resumen: Nancy y el interlocutor conversan sobre preguntas relacionadas a sistemas abiertos. Discuten si el importe se calcula al cargar la consulta o después. Mencionan que Florencia no llegó aún. Se desean suerte y se despiden.
+###########################################
+sentimiento: 
+
+
+Unsatisfied.

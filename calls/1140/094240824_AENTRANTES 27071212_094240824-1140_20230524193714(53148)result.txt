@@ -1,0 +1,11 @@
+resumen: 
+
+
+Se está hablando de una consulta con un profesional europeo y argentino que viene a Uruguay. Se pregunta si se puede hacer a través de Zoom y si hay alguna forma de facturar. El profesional cobra mil dólares por la consulta, lo cual es un montón de dinero en el contexto actual. Se menciona que hay una modalidad abierta con profesionales uruguayos, pero no se puede reintegrar con extranjeros. Se sugiere que se solicite un reembolso excepcional, pero no hay garantías de que sea aceptado. Se menciona que el profesional argentino cobra en pesos argentinos y podría ser más barato. Finalmente, se comenta que hay casos en los que se pagan honorarios en negro sin factura. 
+
+El narrador está tratando de conseguir un servicio de un profesional especializado que cobra un precio alto. El narrador preguntó por el precio y el profesional no le dijo de entrada. El narrador habló con otros profesionales para ver si hay alguna alternativa más barata, pero no encontraron nada. El narrador está tratando de ser elegante a la hora de decirle al profesional que no puede pagar su precio. En resumen: El narrador necesita un servicio especializado que cuesta mucho dinero, pero está tratando de encontrar una alternativa más barata. Está buscando la manera más elegante de decirle al profesional que no puede pagar su precio. No ha encontrado una alternativa más barata hasta el momento y sigue esperando que cancele alguna de las químicas
+###########################################
+sentimiento: 
+.
+
+Satisfied/Unsatisfied: Unsatisfied.
